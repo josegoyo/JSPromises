@@ -1,6 +1,6 @@
-# Webpack y Babel
+# EJemplos de Promesas y Callbacks
 
-Configuracion inicial para cualquier proyecto con webpack y babel.
+Ejemplos en js
 
 Instalacion de dependencias `npm i`\
 Build en modo `dev`: `npm run build:dev`\
@@ -11,5 +11,3 @@ Ejecutar de manera local
 
 Host
 `http://localhost:8080/`
-
-
